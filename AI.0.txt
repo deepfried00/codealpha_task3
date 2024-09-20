@@ -1,0 +1,64 @@
+What is Artificial Intelligence (AI)?
+Artificial Intelligence refers to the development of computer systems that can perform tasks typically requiring human intelligence, such as visual perception, speech recognition, decision-making, and language translation.
+
+How does AI differ from regular software?
+Traditional software follows specific instructions written by programmers to perform tasks, while AI systems are designed to learn and adapt through data. AI can modify its behavior based on experience without needing to be reprogrammed.
+
+What are the different types of AI?
+AI is commonly categorized into three types: 
+- Narrow AI: AI designed to perform a specific task (e.g., virtual assistants, recommendation systems).
+- General AI: AI that can perform any intellectual task a human can, though it is still theoretical.
+- Superintelligent AI: A potential future form of AI that surpasses human intelligence across all domains.
+
+What is Machine Learning (ML)?
+Machine Learning is a subset of AI that allows systems to learn from data and improve without explicit programming. Algorithms identify patterns in data and use those patterns to make predictions or decisions.
+
+What is the difference between AI, Machine Learning, and Deep Learning?
+AI is the broad field of making machines intelligent. Machine Learning is a subset of AI focused on systems learning from data. Deep Learning is a subset of Machine Learning using multi-layered neural networks to process large volumes of data.
+
+How is AI used in everyday life?
+AI is widely used in applications such as: 
+- Voice assistants like Siri and Alexa. 
+- Recommendation systems like Netflix and Amazon. 
+- Autonomous vehicles, like self-driving cars. 
+- Smart home devices, including thermostats and security systems. 
+- Healthcare diagnostics, such as AI-assisted imaging.
+
+What is Natural Language Processing (NLP)?
+Natural Language Processing is a branch of AI that enables computers to understand, interpret, and generate human language. It’s used in chatbots, language translation, sentiment analysis, and virtual assistants.
+
+What is the Turing Test, and why is it important?
+The Turing Test, proposed by Alan Turing, is a measure of a machine's ability to exhibit intelligent behavior indistinguishable from that of a human. If an AI can successfully imitate human responses in a conversation, it is said to have passed the test.
+
+What is neural network technology?
+Neural networks are computational models inspired by the human brain's structure. They consist of layers of connected nodes (neurons) that process data. Neural networks are used in deep learning for tasks like image recognition and language processing.
+
+What are some ethical concerns surrounding AI?
+Ethical concerns about AI include: 
+- Bias: AI systems may inherit biases from the data they are trained on, leading to unfair outcomes. 
+- Privacy: AI often requires large datasets that could include personal information, raising privacy concerns. 
+- Job displacement: Automation driven by AI could lead to job losses in certain industries. 
+- Autonomy: The increasing autonomy of AI systems raises questions about accountability and decision-making.
+
+What is Explainable AI (XAI)?
+Explainable AI refers to systems designed to make their decision-making process transparent and understandable to humans. This is crucial in high-stakes fields like healthcare and finance, where understanding how AI arrives at its conclusions is important.
+
+Can AI be creative?
+AI systems have demonstrated creative capabilities in areas like music composition, art generation, and writing. However, AI creativity is based on patterns in existing data, and it doesn’t possess the emotional depth or originality of human creativity.
+
+What is Reinforcement Learning (RL)?
+Reinforcement Learning is a type of machine learning where an agent learns to make decisions by interacting with its environment and receiving feedback in the form of rewards or penalties. It is used in robotics, gaming, and autonomous systems.
+
+How does AI impact job markets?
+AI is reshaping the job market by automating repetitive tasks, which can lead to job displacement in some sectors. However, AI also creates new opportunities in areas like AI development, data analysis, and AI system maintenance. Upskilling and reskilling workers are key to adapting to these changes.
+
+What industries are being transformed by AI?
+AI is transforming multiple industries, including: 
+- Healthcare: AI assists in diagnostics, personalized medicine, and robotic surgery. 
+- Finance: Fraud detection, algorithmic trading, and financial advising are AI-driven. 
+- Retail: Personalized shopping experiences and inventory management are improved with AI. 
+- Transportation: Self-driving cars and smart traffic systems use AI. 
+- Manufacturing: AI optimizes supply chains and automates production.
+
+What is computer vision?
+Computer vision is a subfield of AI 
